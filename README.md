@@ -11,17 +11,19 @@ parsing to figure out the different field values.
 Issue reports and pull requests welcome.
 
 This module is based on the Osuuspankki ofxstatement parser found at
-https://github.com/koodaamo/banking.statements.osuuspankki
+<https://github.com/koodaamo/banking.statements.osuuspankki>
 
 ## Installation
 
 ### From PyPI repositories
-```
+
+```bash
 pip3 install ofxstatement-revolut
 ```
 
 ### From source
-```
+
+```bash
 git clone https://github.com/mlaitinen/ofxstatement-revolut.git
 python3 setup.py install
 ```
